@@ -1,36 +1,41 @@
-# Zachary Southard | Systems & Security Automation
+# Zachary Southard | Systems, Security & Applied AI Automation
 
-Building applied tools at the intersection of **Network Security**, **System Automation**, and **Practical AI Engineering**. Focused on building reliable, high-performance command-line utilities, structured telemetry pipelines, and applied intelligence systems.
+Building applied software at the intersection of **Network Security**, **Defensive Telemetry**, and **Applied AI Systems**. Focused on engineering high-concurrency CLI tools, automated SOC incident parsers, and retrieval-augmented threat intelligence pipelines.
 
 ---
 
 ### 🛠 Technical Competencies
 
-| Domain | Technologies & Core Concepts |
+| Domain | Core Technologies & Architecture |
 | :--- | :--- |
-| **Languages & Scripting** | Python 3, Bash / Zsh, Unix Shell Scripting |
-| **Cybersecurity & Networking** | TCP/IP, Socket Programming, Port Discovery, Banner Grabbing, Log Auditing, OSI Model |
-| **SOC & Defensive Security** | Linux `auth.log` Ingestion, Brute-Force Heuristics, Credential Stuffing Detection |
-| **Data & Telemetry** | JSON Schema Serialization, Structured Event Logging, Data Pipelines, REST APIs |
-| **Systems & Tooling** | Git / GitHub CLI, macOS (Darwin), Linux (Ubuntu), Environment Configuration |
+| **Languages & Scripting** | Python 3 (Standard Library Focus), Bash / Zsh, Unix Shell Scripting |
+| **Network Reconnaissance** | TCP/IP Socket Programming, Non-Blocking Concurrency, Service Fingerprinting |
+| **SOC & Defensive Security** | Linux `auth.log` Telemetry, Brute-Force Heuristics, Credential Stuffing Detection |
+| **Applied AI & Information Retrieval** | RAG Architecture, TF-IDF Vectorization, Cosine Similarity Scoring, NVD API Ingestion |
+| **Data & Systems Engineering** | JSON Schema Telemetry, Unix Environments (macOS, Linux/Ubuntu), Git & GitHub CLI |
 
 ---
 
-### 🚀 Featured Security Repositories
+### 🚀 Featured Repositories
 
 #### 🔍 [py-port-scanner](https://github.com/zestyzack13-coder/py-port-scanner)
-* **Description:** A concurrent TCP network reconnaissance utility performing non-blocking port scanning, active service banner grabbing, and structured JSON audit logging.
-* **Core Tech:** `concurrent.futures.ThreadPoolExecutor`, low-level `socket` bindings, `argparse` CLI architecture.
-* **Competency:** Multi-threaded networking, telemetry serialization, service fingerprinting.
+* **Focus:** High-speed network reconnaissance and active service banner grabbing.
+* **Architecture:** Multi-threaded worker pool via `concurrent.futures.ThreadPoolExecutor`, low-level OS socket bindings, non-blocking timeouts, and structured JSON audit log generation.
+* **Core Skills:** Multi-threading, socket programming, network protocol analysis.
 
 #### 🛡️ [auth-log-analyzer](https://github.com/zestyzack13-coder/auth-log-analyzer)
-* **Description:** A lightweight SIEM parsing engine that ingests Linux authentication logs, correlates brute-force attack vectors, detects credential stuffing, and generates triage-ready incident reports.
-* **Core Tech:** Pre-compiled Regex engines, heuristic threat scoring, JSON schema reporting.
-* **Competency:** Defensive log telemetry, anomaly thresholding, SOC incident triage.
+* **Focus:** Defensive SOC telemetry parsing and automated brute-force incident detection.
+* **Architecture:** Regex-based Linux `sshd` log ingestion, anomaly scoring, compromise correlation (failed attempts followed by successful auth), and machine-readable SIEM report serialization.
+* **Core Skills:** Defensive log analysis, incident triage, threat heuristics.
+
+#### 🧠 [cve-threat-intel-ai](https://github.com/zestyzack13-coder/cve-threat-intel-ai)
+* **Focus:** AI-assisted vulnerability intelligence and local retrieval-augmented generation (RAG).
+* **Architecture:** REST API ingestion of live NIST National Vulnerability Database (NVD) feeds, local TF-IDF vector space ranking with cosine similarity scoring, and automated remediation action planning.
+* **Core Skills:** RAG architecture, vector search, REST API pipelines, SecOps automation.
 
 ---
 
 ### 📬 Connect & Collaborate
 
-* **GitHub:** [@zestyzack13-coder](https://github.com/zestyzack13-coder)
-* **Focus Areas:** Network Reconnaissance, Defensive Telemetry Parsing, Applied AI Automation
+* **GitHub Profile:** [@zestyzack13-coder](https://github.com/zestyzack13-coder)
+* **Technical Domains:** Systems Programming, Defensive SecOps, Applied Machine Intelligence
