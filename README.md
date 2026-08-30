@@ -1,39 +1,27 @@
-# Zachary Southard
-### Systems Programmer & Security Automation Developer
+# Hi, I'm Zack 👋
 
-Hands-on developer focused on building defensive security tools, automated log parsers, and vulnerability intelligence pipelines in Python. Experienced in terminal-driven Linux environments, multi-threaded socket architectures, and structured incident telemetry.
-
----
-
-### 🛠️ Featured Security & Automation Repositories
-
-* **[cve-threat-intel-ai](https://github.com/zestyzack13-coder/cve-threat-intel-ai)**  
-  *Automated CVE Retrieval & Local Vector Analysis Engine*
-  * **Core Stack:** Python 3 (Zero external dependencies), REST APIs, TF-IDF Vector Space Ranking
-  * **Highlights:** Ingests live National Vulnerability Database (NVD) feeds, performs cosine similarity scoring for natural language queries, and outputs structured remediation priorities.
-
-* **[auth-log-analyzer](https://github.com/zestyzack13-coder/auth-log-analyzer)**  
-  *Linux Authentication Log Parser & Incident Triage Utility*
-  * **Core Stack:** Python, Regex Parsing Heuristics, SIEM Serialization
-  * **Highlights:** Parses raw `auth.log` telemetry to detect brute-force thresholds, identifies privilege escalation attempts, and correlates compromise patterns.
-
-* **[notion-secops-bridge](https://github.com/zestyzack13-coder/notion-secops-bridge)**  
-  *Incident Command Center & Automated Telemetry Ingestion Bridge*
-  * **Core Stack:** Python, REST / JSON-RPC, Notion API
-  * **Highlights:** Programmatically formats and routes live security scan outputs into centralized dashboard databases for rapid triage.
+**Cybersecurity Analyst & SecOps Automation Developer**  
+Building modular, lightweight Python tooling for security operations, vulnerability intelligence, and network defense.
 
 ---
 
-### 💻 Technical Toolchain
+### 🛡️ Featured Security Projects
 
-* **Languages & Scripting:** Python 3, Bash / Shell Scripting, C (Systems Concepts)
-* **SecOps & Defensive Systems:** Log Triage, Threat Intelligence (CVE/CVSS), Network Reconnaissance, Incident Telemetry
-* **Architectures & Standards:** Multi-threading, REST APIs, JSON-RPC, Vector Retrieval (RAG), Unix/Linux CLI
-* **Tooling & Environment:** Git / GitHub, Linux Terminal, Vim, macOS
+| Project | Focus / Capabilities | Status |
+| :--- | :--- | :--- |
+| **[cve-threat-intel-ai](https://github.com/zestyzack13-coder/cve-threat-intel-ai)** | Automated NVD CVE ingestion, CVSS v3 score triage, and natural language threat queries | [![CodeQL](https://github.com/zestyzack13-coder/cve-threat-intel-ai/actions/workflows/codeql.yml/badge.svg)](https://github.com/zestyzack13-coder/cve-threat-intel-ai/actions) |
+| **[auth-log-analyzer](https://github.com/zestyzack13-coder/auth-log-analyzer)** | Linux `auth.log` triage, brute-force SSH detection, and sudo privilege escalation monitoring | [![CodeQL](https://github.com/zestyzack13-coder/auth-log-analyzer/actions/workflows/codeql.yml/badge.svg)](https://github.com/zestyzack13-coder/auth-log-analyzer/actions) |
+| **[py-packet-sentinel](https://github.com/zestyzack13-coder/py-packet-sentinel)** | Real-time network socket monitoring, sliding-window port scan detection, and host quarantine | [![CodeQL](https://github.com/zestyzack13-coder/py-packet-sentinel/actions/workflows/codeql.yml/badge.svg)](https://github.com/zestyzack13-coder/py-packet-sentinel/actions) |
 
 ---
 
-### 📬 Connect & Contact
+### 🧰 Core Technical Stack
+* **Languages & Scripting:** Python 3, Bash, Shell Automation
+* **SecOps & Defensive Tooling:** Threat Intel (NVD / CVSS), Syslog & Auth Triage, Network Telemetry
+* **DevSecOps & CI/CD:** GitHub Actions, Static Analysis (CodeQL), Automated Testing (`unittest`)
+* **Operating Systems:** Linux (Debian/Ubuntu), macOS
 
-* **GitHub:** [@zestyzack13-coder](https://github.com/zestyzack13-coder)
-* **Focus:** Open to entry-level remote SecOps, Security Automation, and Junior Analyst opportunities.
+---
+
+### 📬 Connect
+* **GitHub:** [github.com/zestyzack13-coder](https://github.com/zestyzack13-coder)
