@@ -1,27 +1,29 @@
-# Hi, I'm Zack 👋
+# Zachary Southard
+**Cybersecurity & AI Platform Support Specialist**  
+*Incoming Upper-Division B.S. Cybersecurity & Information Assurance Candidate (WGU)*
 
-**Cybersecurity Analyst & SecOps Automation Developer**  
-Building modular, lightweight Python tooling for security operations, vulnerability intelligence, and network defense.
-
----
-
-### 🛡️ Featured Security Projects
-
-| Project | Focus / Capabilities | Status |
-| :--- | :--- | :--- |
-| **[cve-threat-intel-ai](https://github.com/zestyzack13-coder/cve-threat-intel-ai)** | Automated NVD CVE ingestion, CVSS v3 score triage, and natural language threat queries | [![CodeQL](https://github.com/zestyzack13-coder/cve-threat-intel-ai/actions/workflows/codeql.yml/badge.svg)](https://github.com/zestyzack13-coder/cve-threat-intel-ai/actions) |
-| **[auth-log-analyzer](https://github.com/zestyzack13-coder/auth-log-analyzer)** | Linux `auth.log` triage, brute-force SSH detection, and sudo privilege escalation monitoring | [![CodeQL](https://github.com/zestyzack13-coder/auth-log-analyzer/actions/workflows/codeql.yml/badge.svg)](https://github.com/zestyzack13-coder/auth-log-analyzer/actions) |
-| **[py-packet-sentinel](https://github.com/zestyzack13-coder/py-packet-sentinel)** | Real-time network socket monitoring, sliding-window port scan detection, and host quarantine | [![CodeQL](https://github.com/zestyzack13-coder/py-packet-sentinel/actions/workflows/codeql.yml/badge.svg)](https://github.com/zestyzack13-coder/py-packet-sentinel/actions) |
+Building production-grade defensive automation, telemetry parsers, and API diagnostics in Python. Focused on enterprise system diagnostics, log triage, and modern AI developer workflows.
 
 ---
 
-### 🧰 Core Technical Stack
-* **Languages & Scripting:** Python 3, Bash, Shell Automation
-* **SecOps & Defensive Tooling:** Threat Intel (NVD / CVSS), Syslog & Auth Triage, Network Telemetry
-* **DevSecOps & CI/CD:** GitHub Actions, Static Analysis (CodeQL), Automated Testing (`unittest`)
-* **Operating Systems:** Linux (Debian/Ubuntu), macOS
+### 🚀 Featured Proof-of-Work Repositories
+
+| Repository | Primary Focus | Release & Test Metrics |
+|---|---|---|
+| [**opsec-telemetry-cli**](https://github.com/zestyzack13-coder/opsec-telemetry-cli) | Defensive Log & Telemetry Triage | [![v1.0.0](https://img.shields.io/badge/release-v1.0.0-blue.svg)](https://github.com/zestyzack13-coder/opsec-telemetry-cli/releases) ![Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen.svg) |
+| [**cve-threat-intel-ai**](https://github.com/zestyzack13-coder/cve-threat-intel-ai) | REST API Ingestion & Threat Analysis | [![v1.0.0](https://img.shields.io/badge/release-v1.0.0-blue.svg)](https://github.com/zestyzack13-coder/cve-threat-intel-ai/releases) ![CI](https://img.shields.io/badge/build-passing-brightgreen.svg) |
+| [**security-plus-applied-lab**](https://github.com/zestyzack13-coder/security-plus-applied-lab) | Security+ Applied Labs & IAM Frameworks | [![v1.0.0](https://img.shields.io/badge/release-v1.0.0-blue.svg)](https://github.com/zestyzack13-coder/security-plus-applied-lab/releases) ![Security](https://img.shields.io/badge/framework-CompTIA%20Sec%2B-informational.svg) |
 
 ---
 
-### 📬 Connect
-* **GitHub:** [github.com/zestyzack13-coder](https://github.com/zestyzack13-coder)
+### 🛠 Core Technical Stack & Capabilities
+
+* **Languages & Scripting:** Python 3.11+, Bash, Regex, Markdown
+* **Testing & CI/CD:** Pytest (100% branch coverage), Flake8, Black, GitHub Actions, CodeQL
+* **Platform Diagnostics:** REST APIs, JSON/Syslog Parsing, HTTP Status Debugging (4xx/5xx), Token/IAM Validation
+* **AI Tooling & Workflows:** Claude Code CLI, Prompt Orchestration, Secure Local Data Pipelines
+
+---
+
+### 📬 Connect & Review
+* **GitHub Profile & Repositories:** [github.com/zestyzack13-coder](https://github.com/zestyzack13-coder)
